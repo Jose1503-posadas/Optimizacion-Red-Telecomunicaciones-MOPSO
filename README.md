@@ -9,6 +9,7 @@ El objetivo de este proyecto es desarrollar y validar un enfoque basado en algor
 ## Como usarlo:
 
 1. Clona este repositorio:
+`gh repo clone Jose1503-posadas/Optimizacion-Red-Telecomunicaciones-MOPSO`
    
-2. Asegurate de tener intaladas las bibliotecas necesarias
-3.  
+3. Asegurate de tener intaladas las bibliotecas necesarias
+4.  
