@@ -9,7 +9,8 @@ El objetivo de este proyecto es desarrollar y validar un enfoque basado en algor
 ## Como usarlo:
 
 1. Clona este repositorio:
-`gh repo clone Jose1503-posadas/Optimizacion-Red-Telecomunicaciones-MOPSO`
+
+   - `gh repo clone Jose1503-posadas/Optimizacion-Red-Telecomunicaciones-MOPSO`
    
 2. Asegurate de tener intaladas las bibliotecas necesarias
    - **Python**-> Pandas, Matplotlib, Numpy
@@ -17,4 +18,4 @@ El objetivo de este proyecto es desarrollar y validar un enfoque basado en algor
 
 3. Compila el algoritmo de MOPSO.c para poder tener el ejecutable para posteriormente ocuparlo en la evolución diferencial(DE.c)
 
-`gcc -o MOPSO MOPSO.c`
+   - `gcc -o MOPSO MOPSO.c`
