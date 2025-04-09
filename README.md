@@ -27,8 +27,10 @@ El objetivo de este proyecto es desarrollar y validar un enfoque basado en algor
    Por ejemplo:
 
    - `./mopso 30 100 0.8 0.5`
+  
+**En caso de querer encontrar los mejores parámetros**
      
-5. Compilar el archivo **DE.c**, el cual implementa el algoritmo de Evolución Diferencial. Este algoritmo se encarga de encontrar los mejores valores de parámetros para ejecutar el archivo MOPSO, de acuerdo con las métricas establecidas.
+6. Compilar el archivo **DE.c**, el cual implementa el algoritmo de Evolución Diferencial. Este algoritmo se encarga de encontrar los mejores valores de parámetros para ejecutar el archivo MOPSO, de acuerdo con las métricas establecidas.
 
     - `gcc -o DE DE.c -lm`
 
