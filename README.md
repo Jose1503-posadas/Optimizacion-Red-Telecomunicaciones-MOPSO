@@ -4,6 +4,11 @@ El trabajo fue realizado por José Alberto Posadas Gudiño alumno de esta instit
 - **Dra. Karen Samara Miranda Campos**  
 - **Dr. Edwin Montes Orozco**
 
-El propósito de este proyecto es 
+El objetivo de este proyecto es desarrollar y validar un enfoque basado en algoritmos de enjambre de partículas para optimizar la calidad de servicio (QoS) en redes de telecomunicaciones, mejorando métricas clave como latencia, jitter, pérdida de paquetes y cobertura
 
----
+## Como usarlo:
+
+1. Clona este repositorio:
+   
+2. Asegurate de tener intaladas las bibliotecas necesarias
+3.  
