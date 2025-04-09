@@ -36,3 +36,9 @@ El objetivo de este proyecto es desarrollar y validar un enfoque basado en algor
    
     - `./DE`
 
+8. En caso de querer visualizar el frente de pareto que se obtiene del MOPSO se compila de la siguiente manera:
+    - `python3 FrentePareto.py`
+
+9. En caso de querer visualizar los resultados que se obtienen del MOPSO se compila de la siguiente manera:
+    - `python3 .py`
+
