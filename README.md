@@ -18,4 +18,13 @@ El objetivo de este proyecto es desarrollar y validar un enfoque basado en algor
 
 3. Compila el algoritmo de MOPSO.c para poder tener el ejecutable para posteriormente ocuparlo en la evolución diferencial(DE.c)
 
-   - `gcc -o MOPSO MOPSO.c`
+   - `gcc -o MOPSO MOPSO.c -lm`
+
+4. En caso de querer visualizar el frente de pareto y la visualización del MOPSO, es necesario ejecutar el programa:
+
+   - `./mopso <TAM_ENJAMBRE> <ITERACIONES> <C1> <C2>`
+
+   Por ejemplo:
+
+   - `./mopso 50 100 1.5 1.5`
+
