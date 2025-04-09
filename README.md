@@ -12,4 +12,6 @@ El objetivo de este proyecto es desarrollar y validar un enfoque basado en algor
 `gh repo clone Jose1503-posadas/Optimizacion-Red-Telecomunicaciones-MOPSO`
    
 3. Asegurate de tener intaladas las bibliotecas necesarias
-4.  
+   - **Python**-> Pandas, Matplotlib, Numpy
+   - **C** -> math.h, time.h
+5.  
