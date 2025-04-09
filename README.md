@@ -28,19 +28,19 @@ El objetivo de este proyecto es desarrollar y validar un enfoque basado en algor
 
    - `./mopso 30 100 0.8 0.5`
   
-**En caso de querer encontrar los mejores parámetros**
+**En caso de querer encontrar los mejores parámetros para ejecutar el algoritmo**
      
-6. Compilar el archivo **DE.c**, el cual implementa el algoritmo de Evolución Diferencial. Este algoritmo se encarga de encontrar los mejores valores de parámetros para ejecutar el archivo MOPSO, de acuerdo con las métricas establecidas.
+5. Compilar el archivo **DE.c**, el cual implementa el algoritmo de Evolución Diferencial. Este algoritmo se encarga de encontrar los mejores valores de parámetros para ejecutar el archivo MOPSO, de acuerdo con las métricas establecidas.
 
     - `gcc -o DE DE.c -lm`
 
-7. Ejecuta el archivo ejecutable de **DE**
+6. Ejecuta el archivo ejecutable de **DE**
    
     - `./DE`
 
-8. En caso de querer visualizar el **frente de pareto** que se obtiene del **MOPSO** se compila de la siguiente manera:
+7. En caso de querer visualizar el **frente de pareto** que se obtiene del **MOPSO** se compila de la siguiente manera:
     - `python3 FrentePareto.py`
 
-9. En caso de querer visualizar los **resultados** que se obtienen del **MOPSO** se compila de la siguiente manera:
+8. En caso de querer visualizar los **resultados** que se obtienen del **MOPSO** se compila de la siguiente manera:
     - `python3 VisualizacionMOPSO.py`
 
