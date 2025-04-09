@@ -16,4 +16,5 @@ El objetivo de este proyecto es desarrollar y validar un enfoque basado en algor
    - **C** -> math.h, time.h
 
 3. Compila el algoritmo de MOPSO.c para poder tener el ejecutable para posteriormente ocuparlo en la evolución diferencial(DE.c)
-'gcc -o MOPSO MOPSO.c'
+
+`gcc -o MOPSO MOPSO.c`
