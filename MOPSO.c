@@ -40,7 +40,7 @@ void evaluaFO(float *individuo, float *objetivos, float *calidadServicio){
     objetivos[0] = fmin(1.0 / fmax(individuo[0], 0.01), 1000.0);
     objetivos[1] = fmin(1.0 / fmax(individuo[1], 0.01), 1000.0);
     objetivos[2] = fmin(1.0 / fmax(individuo[2], 0.01), 1000.0);
-    objetivos[3] = individuo[3];
+    objetivos[3] = (individuo[3] + 100.0); //ahora será de 0 a 33.
 
     *calidadServicio = pesos[0] * objetivos[0] +
                        pesos[1] * objetivos[1] +
